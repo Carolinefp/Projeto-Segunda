@@ -1,0 +1,27 @@
+
+### requisição para a raiz da aplicação
+
+GET http://localhost:5135
+
+### Listar Produto
+GET http://localhost:5135/api/produto/listar
+
+
+GET http://localhost:5135/segundafuncionalidade
+
+### Cadastrar Produto
+GET http://localhost:5135/api/produto/cadastrar
+Content-Type: application/json
+
+{
+    "nome" :"Água",
+    "preço": 4.5,
+    "quantidade" : 153
+
+}
+
+
+
+//Exercicios para proxima aula
+//Criar um endpoit para receber informação pela URL 
+//Criar um endpoit para receber informação pela CORPO
