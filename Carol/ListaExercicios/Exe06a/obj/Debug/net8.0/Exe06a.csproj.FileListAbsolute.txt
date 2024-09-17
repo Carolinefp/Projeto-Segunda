@@ -1,0 +1,15 @@
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\bin\Debug\net8.0\Exe06a.exe
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\bin\Debug\net8.0\Exe06a.deps.json
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\bin\Debug\net8.0\Exe06a.runtimeconfig.json
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\bin\Debug\net8.0\Exe06a.dll
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\bin\Debug\net8.0\Exe06a.pdb
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\obj\Debug\net8.0\Exe06a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\obj\Debug\net8.0\Exe06a.AssemblyInfoInputs.cache
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\obj\Debug\net8.0\Exe06a.AssemblyInfo.cs
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\obj\Debug\net8.0\Exe06a.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\obj\Debug\net8.0\Exe06a.sourcelink.json
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\obj\Debug\net8.0\Exe06a.dll
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\obj\Debug\net8.0\refint\Exe06a.dll
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\obj\Debug\net8.0\Exe06a.pdb
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\obj\Debug\net8.0\Exe06a.genruntimeconfig.cache
+C:\Users\autologon\Documents\AulaSegundaCarol\ListaExercicios\Exe06a\obj\Debug\net8.0\ref\Exe06a.dll
